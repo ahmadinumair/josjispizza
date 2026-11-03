@@ -1,0 +1,58 @@
+const menu = [
+  {
+    id: 'margherita',
+    name: 'Margherita Classic',
+    description: 'Saus tomat, mozzarella, basil segar',
+    price: 58000,
+    category: 'Klasik',
+    emoji: '🍕',
+    badge: 'Favorit',
+  },
+  {
+    id: 'pepperoni',
+    name: 'Pepperoni Feast',
+    description: 'Pepperoni melimpah dengan keju mozzarella',
+    price: 72000,
+    category: 'Favorit',
+    emoji: '🍕',
+    badge: 'Best seller',
+  },
+  {
+    id: 'cheese-lover',
+    name: 'Cheese Lover',
+    description: 'Perpaduan empat keju yang lumer',
+    price: 68000,
+    category: 'Favorit',
+    emoji: '🧀',
+    badge: null,
+  },
+  {
+    id: 'bbq-chicken',
+    name: 'BBQ Chicken',
+    description: 'Ayam panggang, saus BBQ, bawang bombai',
+    price: 69000,
+    category: 'Spesial',
+    emoji: '🍗',
+    badge: 'Baru',
+  },
+  {
+    id: 'veggie-garden',
+    name: 'Veggie Garden',
+    description: 'Paprika, jamur, jagung manis, zaitun',
+    price: 62000,
+    category: 'Spesial',
+    emoji: '🥦',
+    badge: null,
+  },
+  {
+    id: 'meat-lover',
+    name: 'Meat Lover',
+    description: 'Sosis sapi, daging asap, pepperoni',
+    price: 78000,
+    category: 'Spesial',
+    emoji: '🥓',
+    badge: null,
+  },
+];
+
+module.exports = menu;

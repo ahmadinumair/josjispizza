@@ -1,0 +1,9 @@
+{
+  "name": "Josjis Pizza",
+  "short_name": "Josjis Pizza",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff9f1",
+  "theme_color": "#fff9f1",
+  "description": "Pesan pizza hangat favoritmu di Josjis Pizza."
+}
